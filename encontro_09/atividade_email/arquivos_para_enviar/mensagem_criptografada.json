@@ -1,0 +1,5 @@
+{
+    "algoritmo": "AES-256-GCM",
+    "nonce_base64": "Ez0hzXecc1ReVFX4",
+    "mensagem_criptografada_base64": "Pyi/PKBztzor4SX3k6F7AhrYECWZzunLpJZQNxxltMqTsJUTeMw0KVX0gF1zp2pKHaoro7ZthSEhBCMlXIx3Npos8w+sQ9E="
+}
